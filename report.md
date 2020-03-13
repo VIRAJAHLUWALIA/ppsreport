@@ -1,15 +1,17 @@
 ![GNE](https://raw.githubusercontent.com/VIRAJAHLUWALIA/ppsreport/master/sm_logo.png)
 # PROGRAMMING FOR PROBLEM SOLVING
 -------
-NAME-Viraj
+Submitted By-Viraj
 
-CLASS ROLL NO.-1916083
+Class Roll No.-1916083
 
-UNI. ROLL NO.-1905164
+Uni. Roll No.-1905164
 
-BRANCH-Electrial
+Branch-Electrial
 
-SECTION-B
+Section-B
+
+Batch-2019-2023
 
 -------
 EXPERIMENT NO.-1
