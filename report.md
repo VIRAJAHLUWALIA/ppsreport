@@ -14,7 +14,7 @@ SECTION-B
 -------
 EXPERIMENT NO.-1
 WRITE A CODE TO PRINT THE NAME OF YOUR COLLEGE.
-```
+```C
 #include<stdio.h>
 int main()
 {
