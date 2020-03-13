@@ -1,3 +1,4 @@
+![GNE](https://raw.githubusercontent.com/VIRAJAHLUWALIA/ppsreport/master/sm_logo.png)
 # PROGRAMMING FOR PROBLEM SOLVING
 -------
 NAME-VIRAJ
