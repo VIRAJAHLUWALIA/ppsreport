@@ -505,3 +505,59 @@ else
 }
 ```
 --------
+Experiment no 21
+Write a code to display the number is prime or not.
+```c
+#include<stdio.h>
+int main()
+{
+    int i,n, sum=0;
+    printf("enter a possitive integer");
+    scanf("%d",&n);
+    for(i=2;i<=n/2;++i)
+  {
+      if(n%i==0)
+   { sum=1;
+    break;
+  if(n==1)
+  {
+   printf("its neither prime nor composite");
+  }
+  else
+  {
+      if(sum==0)
+      printf("%dis a prime no",n);
+      else
+      printf("%d is composite no",n);
+  }
+  
+}
+}
+}
+```
+------
+Experiment no 22
+Write a code to print a range of prime number between some range.
+```c
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+    int x,y,count=0,k;
+    scanf("%d%d",&x,&y);
+    for(int i=x;i<=y;i++)
+    {
+        for(int k=1;k<=i;k++)
+   {
+       if(i%k==0)
+       count++;
+   }
+   {
+     if(count==2)
+     printf("\n%d",i);
+     count=0;
+   }
+   printf("\n");
+}
+}
+```
