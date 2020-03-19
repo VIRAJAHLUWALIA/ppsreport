@@ -25,6 +25,7 @@ puts("GURU NANAK DEV ENGINEERING COLLEGE");
 ```
 ----
 EXPERIMENT NO.-2
+Write a code to print FOX.
 ```c
 #include<stdio.h>
 int main()
@@ -40,6 +41,7 @@ int main()
 ```
 ------
 EXPERIMENT NO.-3
+Write a C program to print a big ' C '.
 ```c
 #incude<stdio.h>
 int main()
@@ -57,6 +59,7 @@ puts(" ######");
 ```
 ------
 EXPERIMENT NO.-4
+Design a code to execute addition of two numbers.
 ```c
 #include<stdio.h>
 int main()
@@ -71,6 +74,7 @@ return 0;
 ```
 -------
 EXPERIMENT NO.-5
+Write a computer program in C, which takes two numbers (integers) as input and print the smaller number.
 ```c
 #include<stdio.h>
 int main()
@@ -90,19 +94,24 @@ printf("%d", b);
 ```
 -------
 EXPERIMENT NO.-6
+Write a C program to print the  characters in a reverse way without using any predefined function.
 ```c
-#incude<stdio.h>
+#include<stdio.h>
 int main()
 {
-    char x,m,l;
-    scanf("%c",&x);
-     scanf("%c",&m);
-      scanf("%c",&l);
-      printf(" %c %c %c %c %c %c " ,l,m,x,x,m,l);
+char x,m,l;
+scanf("%c",&x);
+scanf("%c",&m);
+scanf("%c",&l);
+x,m,l=l,m,x;
+printf("%c",l);
+printf("%c",m);
+printf("%c",x);
 }
 ```
 ------
 Experimenr No.-7
+Write a code for FIZZ BUZZ GAME.
 ```c
 #include <stdio.h> 
   
